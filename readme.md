@@ -18,3 +18,7 @@ git push -u origin master
 git remote add origin git@github.com:prakasha4php/react-course-weather-app.git
 
 git push -u origin master
+
+URL to Test:
+
+http://react-course-weather-app.herokuapp.com/
